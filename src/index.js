@@ -85,7 +85,7 @@ function App() {
 function Header({ isOpen }) {
     return (
         <header className="header">
-            <h1>Faith Pizza Co.</h1>
+            <h1>Athy's Pizza Co.</h1>
             {isOpen && <p className="tagline">Authentic Italian cuisine, all from our stone oven</p>}
         </header>
     );
